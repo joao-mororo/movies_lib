@@ -13,7 +13,7 @@ A website to view information about movies
 - react-router-dom
 
 # API
-The Movie Database (TMDB)
+- The Movie Database (TMDB)
 
 # Images
 ![image](https://user-images.githubusercontent.com/110433639/216105768-5e46d943-3380-4f27-a2a6-cce750b16afb.png)
